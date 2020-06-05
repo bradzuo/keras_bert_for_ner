@@ -1,0 +1,2 @@
+# keras_bert_for_ner
+基于keras_bert进行实体识别
